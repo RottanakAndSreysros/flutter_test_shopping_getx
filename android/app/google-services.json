@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434684248890",
+    "project_id": "final-test-73c32",
+    "storage_bucket": "final-test-73c32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434684248890:android:159a4d5cca00384ebe4603",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_shopping_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tz8AnedvbVQxcJX7U9g0RLMtxiHZqdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
